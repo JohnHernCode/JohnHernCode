@@ -4,11 +4,11 @@ I enjoy programming and consistently learning from sun up to sun down.
 
 Here is a quick rundown of my weekday:
 
-- <img src="/img/coffee.svg" alt="coffee" width="10" height="10"> <span style="font-size: 14px; font-weight: 700;">Wake up and have a cup of Joe</span>
-- <img src="/img/code.svg" alt="work" width="10" height="10"> <span style="font-size: 14px; font-weight: 700;"> Start my day of coding</span>
-- <img src="/img/network.svg" alt="network" width="10" height="10"> <span style="font-size: 14px; font-weight: 700;"> Network with other coders</span>
-- <img src="/img/collaborate.svg" alt="collaborate" width="10" height="10"> <span style="font-size: 14px; font-weight: 700;"> Collaborate on a (soon to be open source) project with a few friends for fun</span>
-- <img src="/img/write.svg" alt="blog" width="10" height="10"> <span style="font-size: 14px; font-weight: 700;"> Write a bit about coding over at [WriteCode.Ninja](https://writecode.ninja)</span> 
+- <img src="/img/coffee.svg" alt="coffee" width="10" height="10"> Wake up and have a cup of Joe
+- <img src="/img/code.svg" alt="work" width="10" height="10">  Start my day of coding
+- <img src="/img/network.svg" alt="network" width="10" height="10">  Network with other coders
+- <img src="/img/collaborate.svg" alt="collaborate" width="10" height="10">  Collaborate on a (soon to be open source) project with a few friends for fun
+- <img src="/img/write.svg" alt="blog" width="10" height="10">  Write a bit about coding over at [WriteCode.Ninja](https://writecode.ninja) 
 
 
 <details>
