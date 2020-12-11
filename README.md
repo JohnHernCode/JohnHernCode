@@ -4,11 +4,11 @@ I enjoy programming and consistently learning from sun up to sun down.
 
 Here is a quick rundown of my weekday:
 
-- ![coffee](/img/coffee.svg?raw=true "coffee" width="25" height="25") Wake up and have a cup of Joe
-- ![work](/img/code.svg?raw=true "work" width="25" height="25") Start my day of coding
-- ![network](/img/network.svg?raw=true "network" width="25" height="25") Network with other coders
-- ![collaborate](/img/collaborate.svg?raw=true "collaborate" width="25" height="25") Collaborate on a (soon to be open source) project with a few friends for fun
-- ![blog](/img/write.svg?raw=true "blog" width="25" height="25") Write a bit about coding over at [WriteCode.Ninja](https://writecode.ninja) 
+- <img src="/img/coffee.svg" alt="coffee" width="25" height="25"> Wake up and have a cup of Joe
+- <img src="/img/code.svg" alt="work" width="25" height="25"> Start my day of coding
+- <img src="/img/network.svg" alt="network" width="25" height="25"> Network with other coders
+- <img src="/img/collaborate.svg" alt="collaborate" width="25" height="25"> Collaborate on a (soon to be open source) project with a few friends for fun
+- <img src="/img/write.svg" alt="blog" width="25" height="25"> Write a bit about coding over at [WriteCode.Ninja](https://writecode.ninja) 
 
 
 <details>
