@@ -19,9 +19,7 @@ Here is a quick rundown of my weekday:
   - I teach my oldest daughter to paint.
   - I play fun games and ryhmes with my short stack daughter.
   - I listen to my wife (if I didn't, I would be in trouble).
- 
-  ![John's github stats](https://github-readme-stats.vercel.app/api?username=JohnHernCode&show_icons=true&theme=nord)
   <br><br>
 </details>
 
-
+![John's github stats](https://github-readme-stats.vercel.app/api?username=JohnHernCode&show_icons=true&theme=nord)
