@@ -17,7 +17,7 @@ Here is a quick rundown of my weekday:
 
   - I play hardcore PS4 games with my son.
   - I teach my oldest daughter to paint.
-  - I play fun games and ryhmes with my short stack daughter.
+  - I play fun games and rhymes with my short stack daughter.
   - I listen to my wife (if I didn't, I would be in trouble).
   <br><br>
 </details>
